@@ -359,7 +359,7 @@ for number in count: #looping untuk menampilkan semua elemen pada count
 
 
 # #### Tugas Praktek
-# Buatlah sebuah program yang bisa mengeluarkan angka 1 sampai 10.
+# Buatlah sebuah program yang mengeluarkan angka 1 sampai 10.
 # Tampilan akan menunjukan "Angka ganjil 1" untuk angka ganjil dan "Angka genap 2" untuk angka genap. (Menggunakan looping for)
 # Note: Kode dasar sudah disertakan, Anda cukup mengganti tanda # dengan nilai-nilai yang sesuai.
 
