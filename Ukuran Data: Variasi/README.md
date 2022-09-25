@@ -1,0 +1,1 @@
+Pada modul ini akan memahami apa dan kenapa diperlukan ukuran variasi, mampu memahami ukuran dan menghasilkan rentang data (range), mampu memahami dan menghitung kuartil (quartile), interkuartil (interquartile), dan persentil (percentile), mampu memahami dan menggunakan rumus perhitungan varian (variance) dan standar deviasi (standard deviation) untuk sampel dan populasi
